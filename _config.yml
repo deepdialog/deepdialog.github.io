@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "DeepDialog"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "DeepDialog目标是最简单的对话机器人实现方案"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
